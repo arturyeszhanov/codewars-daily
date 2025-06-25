@@ -17,3 +17,5 @@ This helps me stay consistent and continuously improve my problem-solving and co
 
 ## 🔗 My Codewars Profile
 [codewars.com/users/arturyeszhanov](https://www.codewars.com/users/arturyeszhanov)
+
+![Codewars](https://www.codewars.com/users/arturyeszhanov/badges/large)
