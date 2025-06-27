@@ -1,4 +1,7 @@
+// Title: Find the most frequently occurring elements in arrays
+// kyu: 6
 // Codewars: https://www.codewars.com/kata/578b44a47c77f5a1bd000011
+
 
 function getMostFrequent(json) {
     const result = json.temperature.map(subArr => {
